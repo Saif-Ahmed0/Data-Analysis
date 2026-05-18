@@ -9,10 +9,11 @@ to analyze salaries in the Data Science field based on multiple factors.
 > ⚠️ Interactive charts (Plotly) are not supported on GitHub.
 > To view the full notebook with all charts, open it via nbviewer.
 > **Note:** Charts will appear as static images, not interactive.
-> 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Saif-Ahmed0/Salaries-Analysis/blob/main/ds%20salaries%20for%20Company.ipynb)
-> 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Saif-Ahmed0/Salaries-Analysis/blob/main/ds_salaries_%20for_%20Company.ipynb)
+>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Saif-Ahmed0/Salaries-Analysis/blob/main/ds_salaries_for_Company.ipynb)
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Saif-Ahmed0/Salaries-Analysis/blob/main/ds_salaries_for_Company.ipynb)
+
 
 ## 📁 Dataset
 The dataset contains information about Data Science salaries including:
