@@ -4,6 +4,14 @@
 Exploratory Data Analysis (EDA) and Machine Learning model 
 to analyze salaries in the Data Science field based on multiple factors.
 
+## 📓 View Notebook
+
+> ⚠️ Interactive charts (Plotly) are not supported on GitHub.
+> To view the full notebook with all charts, open it via nbviewer.
+> **Note:** Charts will appear as static images, not interactive.
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Saif-Ahmed0/Salaries-Analysis/blob/main/ds_salaries_%20for_%20Company.ipynb)
+
 ## 📁 Dataset
 The dataset contains information about Data Science salaries including:
 | Column | Description |
