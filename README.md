@@ -45,15 +45,18 @@ The dataset contains information about Data Science salaries including:
 - Preprocessing: Label Encoding + PCA
 
 ## 🚀 How to Run
+
 1. Clone the repo:
 ```bash
-   git clone https://github.com/YOUR_USERNAME/ds-salaries-analysis.git
+   git clone https://github.com/Saif-Ahmed0/Salaries-Analysis.git
 ```
+
 2. Install requirements:
 ```bash
-   pip install pandas numpy seaborn matplotlib plotly scikit-learn
+   pip install numpy pandas seaborn matplotlib plotly kaleido==0.1.0post1 scikit-learn ipython
 ```
+
 3. Open the notebook:
 ```bash
-   jupyter notebook ds_salaries_notebook.ipynb
+   jupyter notebook "ds_salaries_ for_ Company.ipynb"
 ```
